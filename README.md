@@ -12,4 +12,4 @@ What are the following terms:
 4- Be carful, C does not have automatic conversion for incompatible data types, it assumes that a programmer knows what she is doing.
 
 
-5- CC vs other compilers ? 
+5- CC vs gcc vs clang vs clang++ vs make vs cmake ? 
