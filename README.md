@@ -51,4 +51,24 @@ j)%s ----> character string
 k) %Lf for long double
 
 
+The symbolc name or symbolic constant using #define, example:
 
+
+#define LOWER 0
+
+whenever the compiler encounter the symbolic constant LOWER it changes to the value 0. They shoud be written in upper case.
+
+
+character I/O: basically  astream of character.
+
+
+The C Library provides a mechainsm where you can process each character at a time whether that is by reading or writng.
+
+
+The two functions are: putchar and getchar. 
+
+
+getchar reads a character one at a time usually from a text stream (keyboard or a file)
+
+
+putchar printf that value to the screen or to a file. (file , screen) 
